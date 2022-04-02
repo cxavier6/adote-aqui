@@ -1,0 +1,1 @@
+Este projeto utiliza HTML e CSS para uma página de adoção de animais, o ADOTEAQUI!.
